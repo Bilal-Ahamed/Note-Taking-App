@@ -6,9 +6,9 @@
 <p>I have to build a website which can simple save notes and save it on browser locally and filter notes which i search</p>
 
 <h3>#Summary of Tech Stack
-<p>I give structure to this app using HTML and make appeling using Bootstrap 4.Then provide functionality using javascript so that i can improve my javascript skills.
+<p>I give structure to this app using HTML and make appeling using Bootstrap 4.Then provide functionality using javascript so that i can improve my javascript skills.</p>
  
- <h3>#Run Locally
+ <h3>#Run Locally</h3>
  <p>clone this file</p>
   <p>create js folder and put app.js file in it</p>
  
